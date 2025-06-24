@@ -1,5 +1,5 @@
-import { Search, Plus } from "lucide-react"
-import { Button } from "@/components/ui/button"
+import { Search, Plus } from "lucide-react";
+import { Button } from "@/components/ui/button";
 
 export default function Header() {
   return (
@@ -18,7 +18,11 @@ export default function Header() {
       </div>
 
       <div className="flex items-center gap-4">
-        <Button size="icon" variant="ghost" className="bg-blue-600 hover:bg-blue-700 rounded-full">
+        <Button
+          size="icon"
+          variant="ghost"
+          className="bg-blue-600 hover:bg-blue-700 rounded-full"
+        >
           <Plus className="h-5 w-5" />
         </Button>
         <Button className="bg-yellow-500 hover:bg-yellow-600 text-black">
@@ -33,5 +37,5 @@ export default function Header() {
         </div>
       </div>
     </header>
-  )
+  );
 }
