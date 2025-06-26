@@ -8,6 +8,7 @@ import {
   NavigationMenuTrigger,
 } from "@/components/ui/navigation-menu";
 import { Plus, Search } from "lucide-react";
+import Link from "next/link";
 import React from "react";
 
 export const HeaderSection = (): JSX.Element => {
@@ -69,8 +70,11 @@ export const HeaderSection = (): JSX.Element => {
             Criar
           </Button>
 
-          <Button className="h-10 bg-[#4255ff] hover:bg-[#3a4be6] rounded-[200px] [font-family:'Inter-SemiBold',Helvetica] font-semibold text-white text-[13.6px]">
-            Entrar
+          <Button
+            className="h-10 bg-[#4255ff] hover:bg-[#3a4be6] rounded-[200px] [font-family:'Inter-SemiBold',Helvetica] font-semibold text-white text-[13.6px]"
+            asChild
+          >
+            <Link href="/sign-in">Entrar</Link>
           </Button>
         </div>
       </div>
