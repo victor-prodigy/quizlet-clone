@@ -1,39 +1,39 @@
-# Guia de Contribuição
+# Contribution Guide
 
-Obrigado por querer contribuir com o Quizlet Clone! Para mantermos um ambiente saudável e produtivo, siga as orientações abaixo.
+Thank you for your interest in contributing to Quizlet Clone! To keep our environment healthy and productive, please follow the guidelines below.
 
-## 📦 Instalação e ambiente
-- Use `pnpm install` ou `npm install` para instalar as dependências.
-- Crie um `.env.local` baseado no `.env.example`.
+## 📦 Installation and environment
+- Use `pnpm install` or `npm install` to install dependencies.
+- Create a `.env.local` file based on `.env.example`.
 
 ## 🚩 Branches
-- Use a branch `main` apenas para produção.
-- Crie branches a partir da `main` com nomes descritivos, exemplo: `feat/adicionar-login-google`, `fix/erro-deploy`.
+- Use the `main` branch for production only.
+- Create branches from `main` with descriptive names, e.g.: `feat/add-google-login`, `fix/deploy-error`.
 
 ## 💬 Commits
-- Use mensagens de commit claras e no padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0/):
-  - `feat: nova funcionalidade`
-  - `fix: correção de bug`
-  - `docs: alteração na documentação`
-  - `refactor: refatoração de código`
+- Use clear commit messages following the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) standard:
+  - `feat: new feature`
+  - `fix: bug fix`
+  - `docs: documentation change`
+  - `refactor: code refactor`
 
 ## 🧪 Pull Requests
-- Descreva claramente o que foi feito e o motivo.
-- Relacione issues quando aplicável (`Closes #número-da-issue`).
-- Aguarde revisão de pelo menos um mantenedor.
+- Clearly describe what was done and why.
+- Link issues when applicable (`Closes #issue-number`).
+- Wait for review from at least one maintainer.
 
-## 🧹 Código e estilo
-- Siga o padrão do projeto (TypeScript, React, TailwindCSS).
-- Use ESLint e Prettier para manter o código limpo.
-- Teste suas alterações antes de enviar.
+## 🧹 Code and style
+- Follow the project standards (TypeScript, React, TailwindCSS).
+- Use ESLint and Prettier to keep the code clean.
+- Test your changes before submitting.
 
-## 🤝 Respeito e colaboração
-- Seja respeitoso nos comentários e revisões.
-- Dê feedbacks construtivos.
+## 🤝 Respect and collaboration
+- Be respectful in comments and reviews.
+- Give constructive feedback.
 
-## 🏷️ Licença
-Ao contribuir, você concorda que sua contribuição será licenciada sob a licença MIT deste repositório.
+## 🏷️ License
+By contributing, you agree that your contribution will be licensed under this repository's MIT license.
 
 ---
 
-Dúvidas? Abra uma issue ou participe da nossa comunidade no Discord! 
+Questions? Open an issue or join our community on Discord! 

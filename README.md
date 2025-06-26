@@ -1,65 +1,65 @@
 # Quizlet Clone
 
-Este é um clone do Quizlet construído com Next.js, focado em aprendizado por flashcards. O objetivo é criar uma plataforma colaborativa para estudantes e professores compartilharem e estudarem conteúdos de forma eficiente.
+This is a Quizlet clone built with Next.js, focused on learning through flashcards. The goal is to create a collaborative platform for students and teachers to share and study content efficiently.
 
-## 🚀 Como rodar o projeto
+## 🚀 How to run the project
 
-1. **Clone o repositório:**
+1. **Clone the repository:**
    ```bash
-   git clone https://github.com/seu-usuario/quizlet-clone.git
+   git clone https://github.com/your-username/quizlet-clone.git
    cd quizlet-clone
    ```
-2. **Instale as dependências:**
+2. **Install dependencies:**
    ```bash
    pnpm install
-   # ou
+   # or
    npm install
    ```
-3. **Crie o arquivo de variáveis de ambiente:**
-   Copie `.env.example` para `.env.local` e ajuste as variáveis conforme necessário.
+3. **Create the environment variables file:**
+   Copy `.env.example` to `.env.local` and adjust the variables as needed.
 
-4. **Rode o projeto em modo desenvolvimento:**
+4. **Run the project in development mode:**
    ```bash
    pnpm dev
-   # ou
+   # or
    npm run dev
    ```
 
-Acesse: [http://localhost:3000](http://localhost:3000)
+Access: [http://localhost:3000](http://localhost:3000)
 
-## 🤝 Como contribuir
+## 🤝 How to contribute
 
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature ou correção: `git checkout -b minha-feature`
-3. Commit suas mudanças: `git commit -m 'feat: minha nova feature'`
-4. Faça push para a branch: `git push origin minha-feature`
-5. Abra um Pull Request
+1. Fork this repository
+2. Create a branch for your feature or fix: `git checkout -b my-feature`
+3. Commit your changes: `git commit -m 'feat: my new feature'`
+4. Push to your branch: `git push origin my-feature`
+5. Open a Pull Request
 
-Veja mais detalhes em [CONTRIBUTING.md](./CONTRIBUTING.md)
+See more details in [CONTRIBUTING.md](./CONTRIBUTING.md)
 
-## 📚 Estrutura do projeto
+## 📚 Project structure
 
-- `app/` - Páginas e rotas do Next.js
-- `components/` - Componentes reutilizáveis
-- `constants/` - Constantes globais
-- `hooks/` - Hooks customizados
-- `lib/` - Funções utilitárias
-- `public/` - Arquivos estáticos
-- `styles/` - Estilos globais
+- `app/` - Next.js pages and routes
+- `components/` - Reusable components
+- `constants/` - Global constants
+- `hooks/` - Custom hooks
+- `lib/` - Utility functions
+- `public/` - Static files
+- `styles/` - Global styles
 
-## 🏷️ Licença
+## 🏷️ License
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
+This project is licensed under the MIT license. See the [LICENSE](./LICENSE) file for more details.
 
-## 👥 Reconhecimento de Contribuidores
+## 👥 Contributors Recognition
 
-Usamos [all-contributors](https://github.com/all-contributors/all-contributors) para reconhecer automaticamente todos que contribuem para este projeto.
+We use [all-contributors](https://github.com/all-contributors/all-contributors) to automatically recognize everyone who contributes to this project.
 
-## 💬 Comunidade
+## 💬 Community
 
-- [GitHub Discussions](https://github.com/seu-usuario/quizlet-clone/discussions)
-- [Discord](https://discord.gg/seu-link)
+- [GitHub Discussions](https://github.com/your-username/quizlet-clone/discussions)
+- [Discord](https://discord.gg/your-link)
 
 ---
 
-Sinta-se à vontade para abrir issues, sugerir melhorias e contribuir! 
+Feel free to open issues, suggest improvements, and contribute! 

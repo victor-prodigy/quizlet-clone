@@ -1,23 +1,23 @@
-# Código de Conduta
+# Code of Conduct
 
-Como participantes e mantenedores deste projeto, nos comprometemos a tornar a participação uma experiência livre de assédio para todos, independentemente de idade, tamanho corporal, deficiência, etnia, identidade e expressão de gênero, nível de experiência, nacionalidade, aparência pessoal, raça, religião ou identidade e orientação sexual.
+As participants and maintainers of this project, we are committed to making participation a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-## Comportamento esperado
-- Use linguagem acolhedora e inclusiva
-- Respeite pontos de vista e experiências diferentes
-- Aceite críticas construtivas
-- Foque no que é melhor para a comunidade
-- Mostre empatia com outros membros
+## Expected behavior
+- Use welcoming and inclusive language
+- Respect different viewpoints and experiences
+- Accept constructive criticism
+- Focus on what is best for the community
+- Show empathy towards other members
 
-## Comportamento inaceitável
-- Uso de linguagem ou imagens sexualizadas
-- Ataques pessoais ou políticos
-- Assédio público ou privado
-- Publicação de informações privadas de terceiros
+## Unacceptable behavior
+- Use of sexualized language or imagery
+- Personal or political attacks
+- Public or private harassment
+- Publishing others' private information
 
-## Aplicação
-Violadores deste código podem ser banidos temporária ou permanentemente a critério dos mantenedores.
+## Enforcement
+Violators of this code may be temporarily or permanently banned at the discretion of the maintainers.
 
 ---
 
-Inspirado pelo [Contributor Covenant](https://www.contributor-covenant.org/pt-br/version/2/0/code_of_conduct/). 
+Inspired by the [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/). 
